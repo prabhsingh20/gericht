@@ -6,7 +6,7 @@ Gericht is a classy, modern restaurant website built using React.js. It showcase
 
 Here’s a quick look at the design:
 
-Check out the [live demo](https://gericht-restaurant.vercel.app/)
+Check out the [live demo](https://gericht-chi-ebon.vercel.app/)
 
 ## Table of Contents
 
